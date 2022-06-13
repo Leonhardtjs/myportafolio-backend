@@ -6,11 +6,11 @@
 
 # Frameworks
 
-[Express]("https://expressjs.com")
+[Express](https://expressjs.com)
 
 # Database
 
-[MongoDB]("https://www.mongodb.com")
+[MongoDB](https://www.mongodb.com)
 
 # Requirements
 Node v16
